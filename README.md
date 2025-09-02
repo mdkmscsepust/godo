@@ -1,1 +1,2 @@
 # godo
+**go install**
